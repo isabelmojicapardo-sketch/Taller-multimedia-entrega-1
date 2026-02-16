@@ -23,21 +23,19 @@ p, li {
 }
 
 html {
-    background-color: #d9d9d9;   /* gris exterior */
+    background-color: #d9d9d9; /* gris exterior */
 }
-
 body {
- body {
-    width: 600px;
-    margin: 40px auto;
-    padding: 20px;
+    width: 700px;
+    margin: 40px auto;   /* lo centra */
+    padding: 30px;
+    
     background-color: #c2fffc;
 
-    border: 8px dotted #ff66c4;
+    border: 8px dotted hotpink; /* borde divertido */
     border-radius: 20px;
 }
 
-}
 
 h1 {
   margin: 0;
